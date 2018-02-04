@@ -1,1 +1,0 @@
-cmd_/home/forbes/linux/hello/hello.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/forbes/linux/hello/hello.ko /home/forbes/linux/hello/hello.o /home/forbes/linux/hello/hello.mod.o ;  true
