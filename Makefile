@@ -1,6 +1,5 @@
 obj-m += hello.o
 
-
 SRC = /home/forbes/linux/hello
 
 PREFIX = arm-linux-gnueabihf-
